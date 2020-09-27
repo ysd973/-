@@ -119,7 +119,7 @@ if n==1:
 
         j= input()
 
-        s= int(j)
+        s=eval(j)
 
         if s== result :
 
